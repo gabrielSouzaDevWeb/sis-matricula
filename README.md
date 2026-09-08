@@ -6,6 +6,16 @@ Projeto acadêmico da disciplina de **Gerência e Engenharia de Software**, orga
 
 O SisMatrícula é um sistema de gestão escolar voltado ao gerenciamento do fluxo de matrícula e do acompanhamento acadêmico-financeiro, incluindo estudantes, filiações/responsáveis, turnos, matrículas e mensalidades.
 
+## Integrantes
+
+- Alan da Silva Dantas
+- Alexandre Chaves Martins
+- Eulyna Cristina Olicio Batista
+- Gabriel Lucas de Souza
+- Gabriel Marcos Ferreira de Oliveira
+- Luana Patrícia Gomes da Silva
+- Lucas Emanuel de Oliveira Costa
+
 ## Escopo inicial
 
 - autenticação de usuários;
